@@ -1,4 +1,4 @@
-Customer Churn Prediction System
+# Customer Churn Prediction System
 Project Description:
 This project focuses on predicting customer churn for a telecom company using machine learning techniques.
 The goal is to identify customers who are likely to leave the service so that proactive retention actions can be taken.
