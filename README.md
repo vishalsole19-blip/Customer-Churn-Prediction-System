@@ -1,14 +1,14 @@
 # Customer Churn Prediction System
-Project Description:
+## Project Description:
 This project focuses on predicting customer churn for a telecom company using machine learning techniques.
 The goal is to identify customers who are likely to leave the service so that proactive retention actions can be taken.
 ________________________________________
-Dataset:
+## Dataset:
 •	Telco Customer Churn dataset
 •	Around 7,000 customer records
 •	Target variable: Churn (Yes / No)
 ________________________________________
-Steps Performed:
+## Steps Performed:
 •	Data cleaning and preprocessing
 •	Exploratory Data Analysis (EDA)
 •	Feature engineering and encoding
@@ -16,15 +16,15 @@ Steps Performed:
 •	Model evaluation using classification report, confusion matrix, and ROC-AUC score
 •	Hyperparameter tuning using GridSearchCV
 ________________________________________
-Models Used:
+## Models Used:
 •	Logistic Regression
 •	Random Forest Classifier
 •	XGBoost Classifier
 ________________________________________
-Result:
+## Result:
 XGBoost performed the best among all models after hyperparameter tuning and showed strong predictive performance for identifying churned customers.
 ________________________________________
-Tools & Technologies:
+## Tools & Technologies:
 •	Python
 •	Pandas, NumPy
 •	Scikit-learn
